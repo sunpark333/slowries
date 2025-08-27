@@ -1,0 +1,15 @@
+tgcrypto 
+psutil
+opencv-python-headless
+python-dotenv
+requests
+speedtest-cli
+Flask
+aiofiles
+pyrofork
+pyromod==1.5
+#https://github.com/DrWix007/pyrogram/archive/refs/heads/master.zip
+pymongo
+telegraph
+cloudinary
+gunicorn==20.1.0
